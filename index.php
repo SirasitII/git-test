@@ -24,6 +24,7 @@
             <th>Posting Date</th>
             <th>Edit</th>
             <th>Delete</th>
+            <th>ADD</th>
         </thead>
 
         <tbody>
